@@ -24,7 +24,7 @@ Dm for questions: Jordy#2411
 * This API is specifically designed for use with MariaDB. Please ensure that you have a MariaDB database available. Other databases, such as MongoDB or         MySQL, will not work with this API.
 
 * Use the same Database as the one you use for StrikePractice on your server
-
+* Plugin link:
   https://www.spigotmc.org/resources/strikepractice-%E2%80%93-1v1-2v2-bots-fights-pvp-events-parties-build-fights-and-more.46906/
 
 

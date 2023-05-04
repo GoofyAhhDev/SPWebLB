@@ -12,15 +12,15 @@ Dm for questions: Jordy#2411
 ## What is it
 
 
-This project Runs a Flask Website that utilizes an API to get data from a MariaDB Database and display them on a webpage.
+* This project Runs a Flask Website that utilizes an API to get data from a MariaDB Database and display them on a webpage.
 
 
 
-The API is written in Python and the website is written in HTML, and uses Tailwind to create the CSS.
+* The API is written in Python and the website is written in HTML, and uses Tailwind to create the CSS.
 
 
 
-This api is written for the use of MariaDB! make sure you have a MariaDB Database. Other databases such as MongoDB or Mysql will not work.
+* This api is written for the use of MariaDB! make sure you have a MariaDB Database. Other databases such as MongoDB or Mysql will not work.
 
 
 

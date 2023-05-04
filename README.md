@@ -1,7 +1,7 @@
 # SPWebLB
 >A modern leaderboards website for StrikePractice
 ---------------------------------------------
-##Author
+## Author
 
 
 Made by https://github.com/apotpvp
@@ -11,7 +11,7 @@ Dm for questions: Jordy#2411
 
 ---------------------------------------------
 
-##What is it?
+## What is it?
 
 
 This api Runs a Flask Website that utilizes an API to get data from a MariaDB Database and display them on the site.

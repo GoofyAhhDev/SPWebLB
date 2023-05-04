@@ -10,15 +10,15 @@ Dm for questions: Jordy#2411
 
 WHAT IS IT?
 
-    This api Runs a Flask Website that utilizes an API to get data from a MariaDB Database and display them on the site.
+This api Runs a Flask Website that utilizes an API to get data from a MariaDB Database and display them on the site.
 
 
 
-    The API is written in Python and the website is written in HTML, and uses Tailwind to create the CSS.
+The API is written in Python and the website is written in HTML, and uses Tailwind to create the CSS.
 
 
 
-    This api is written for the use of MariaDB! make sure you have a MariaDB Database. Other databases such as MongoDB or Mysql will not work.
+This api is written for the use of MariaDB! make sure you have a MariaDB Database. Other databases such as MongoDB or Mysql will not work.
 
 
 
@@ -31,37 +31,37 @@ WHAT IS IT?
 
 HOW TO REPLICATE
 
-    1. Clone repository
-    2. Make sure you have python and pip installed
+1. Clone repository
+2. Make sure you have python and pip installed
 
-        https://www.python.org/downloads/
-
-
-        https://pypi.org/project/pip/
+    https://www.python.org/downloads/
 
 
-        pip install pip
-
-    3. install the requirements folder by using the following command in the directory of your downloaded files
-        " pip install -r requirements.txt "
-
-        ![image](https://user-images.githubusercontent.com/72379044/236198786-8960f215-9f23-45c6-a4e7-8a40c00a3a50.png)
-
-    4. Create a .env file to store database credentials
+    https://pypi.org/project/pip/
 
 
-        Use the following format for your .env file otherwise the api won't work. please remove my default stuff and fill in with your own
+    pip install pip
+
+3. install the requirements folder by using the following command in the directory of your downloaded files
+    " pip install -r requirements.txt "
+
+    ![image](https://user-images.githubusercontent.com/72379044/236198786-8960f215-9f23-45c6-a4e7-8a40c00a3a50.png)
+
+4. Create a .env file to store database credentials
 
 
-            DB_HOST=yourip/yoururl
-            DB_USER=yourdatabaseuser
-            DB_PASSWORD=yourdatabasepassword
-            DB_NAME=yourdatabasename
-            DB_PORT=yourdatabaseport default port is 3306 most likely
-        ![image](https://user-images.githubusercontent.com/72379044/236198112-ae75fd8c-8d5d-4af2-990d-33de6e366d44.png)
+    Use the following format for your .env file otherwise the api won't work. please remove my default stuff and fill in with your own
 
-    5.  go into your terminal and type "python api.py" to run the website.
 
-        ![image](https://user-images.githubusercontent.com/72379044/236198231-7410dbcb-bbd6-4a6e-ac66-3951063eb0d5.png)
+        DB_HOST=yourip/yoururl
+        DB_USER=yourdatabaseuser
+        DB_PASSWORD=yourdatabasepassword
+        DB_NAME=yourdatabasename
+        DB_PORT=yourdatabaseport default port is 3306 most likely
+    ![image](https://user-images.githubusercontent.com/72379044/236198112-ae75fd8c-8d5d-4af2-990d-33de6e366d44.png)
 
-    6.  website will be displayed on http://127.0.0.1:5000 or http://localhost:5000/ if you run this on a server you may need to open some ports or smth or redirect it.
+5.  go into your terminal and type "python api.py" to run the website.
+
+    ![image](https://user-images.githubusercontent.com/72379044/236198231-7410dbcb-bbd6-4a6e-ac66-3951063eb0d5.png)
+
+6.  website will be displayed on http://127.0.0.1:5000 or http://localhost:5000/ if you run this on a server you may need to open some ports or smth or redirect it.

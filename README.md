@@ -34,7 +34,11 @@ HOW TO REPLICATE
     ![image](https://user-images.githubusercontent.com/72379044/236198786-8960f215-9f23-45c6-a4e7-8a40c00a3a50.png)
 
 4. Create a .env file to store database credentials
+
+
     Use the following format for your .env file otherwise the api won't work. please remove my default stuff and fill in with your own
+    
+    
         DB_HOST=yourip/yoururl
         DB_USER=yourdatabaseuser
         DB_PASSWORD=yourdatabasepassword

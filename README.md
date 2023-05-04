@@ -1,5 +1,5 @@
 # SPWebLB
->A modern leaderboards website for StrikePractice
+> A modern leaderboards website for StrikePractice
 ---------------------------------------------
 ## Author
 

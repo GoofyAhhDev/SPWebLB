@@ -5,7 +5,7 @@ Leaderboards website for StrikePractice
 Made by https://github.com/apotpvp
 
 Dm for questions: Jordy#2411
-
+---------------------------------------------
 
 
 WHAT IS IT?

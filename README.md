@@ -24,7 +24,10 @@ HOW TO REPLICATE
     https://pypi.org/project/pip/
         pip install pip
 3. install the requirements folder by using the following command in the directory of your downloaded files
-    pip install -r requirements.txt
+    " pip install -r requirements.txt "
+    
+    ![image](https://user-images.githubusercontent.com/72379044/236198786-8960f215-9f23-45c6-a4e7-8a40c00a3a50.png)
+
 4. Create a .env file to store database credentials
     Use the following format for your .env file otherwise the api won't work. please remove my default stuff and fill in with your own
         DB_HOST=yourip/yoururl

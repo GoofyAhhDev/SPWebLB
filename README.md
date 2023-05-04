@@ -22,7 +22,9 @@ HOW TO REPLICATE
 
     https://www.python.org/downloads/
 
+
     https://pypi.org/project/pip/
+    
     
     pip install pip
     

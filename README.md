@@ -1,6 +1,6 @@
 # SPWebLB
 > A modern leaderboards website for StrikePractice
----------------------------------------------
+
 ## Author
 
 
@@ -8,8 +8,6 @@ Made by https://github.com/apotpvp
 
 Dm for questions: Jordy#2411
 
-
----------------------------------------------
 
 ## What is it?
 

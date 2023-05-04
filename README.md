@@ -12,7 +12,7 @@ Dm for questions: Jordy#2411
 ## What is it
 
 
-This api Runs a Flask Website that utilizes an API to get data from a MariaDB Database and display them on the site.
+This project Runs a Flask Website that utilizes an API to get data from a MariaDB Database and display them on a webpage.
 
 
 

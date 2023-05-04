@@ -25,7 +25,7 @@ Dm for questions: Jordy#2411
 
 * Use the same Database as the one you use for StrikePractice on your server
 
-  ![url](https://www.spigotmc.org/resources/strikepractice-%E2%80%93-1v1-2v2-bots-fights-pvp-events-parties-build-fights-and-more.46906/)
+  https://www.spigotmc.org/resources/strikepractice-%E2%80%93-1v1-2v2-bots-fights-pvp-events-parties-build-fights-and-more.46906/
 
 
 

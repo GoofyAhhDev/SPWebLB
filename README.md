@@ -19,10 +19,13 @@ HOW TO REPLICATE
 
 1. Clone repository
 2. Make sure you have python and pip installed
+
     https://www.python.org/downloads/
 
     https://pypi.org/project/pip/
-        pip install pip
+    
+    pip install pip
+    
 3. install the requirements folder by using the following command in the directory of your downloaded files
     " pip install -r requirements.txt "
     

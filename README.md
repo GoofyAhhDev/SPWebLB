@@ -35,6 +35,7 @@ HOW TO REPLICATE
     ![image](https://user-images.githubusercontent.com/72379044/236198112-ae75fd8c-8d5d-4af2-990d-33de6e366d44.png)
 
 5.  go into your terminal and type "python api.py" to run the website.
-        ![image](https://user-images.githubusercontent.com/72379044/236198231-7410dbcb-bbd6-4a6e-ac66-3951063eb0d5.png)
+
+    ![image](https://user-images.githubusercontent.com/72379044/236198231-7410dbcb-bbd6-4a6e-ac66-3951063eb0d5.png)
 
 6.  website will be displayed on http://127.0.0.1:5000 or http://localhost:5000/ if you run this on a server you may need to open some ports or smth or redirect it.

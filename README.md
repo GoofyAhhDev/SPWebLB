@@ -3,9 +3,13 @@ Leaderboards website for Strike Practice
 
 
 Made by https://github.com/apotpvp
+
 Dm for questions: Jordy#2411
 
+
+
 This api Runs a Flask Website
+
 This api is written for the use of MariaDB! make sure you have a MariaDB Database. Other databases such as MongoDB or Mysql will not work.
 
 

@@ -1,6 +1,6 @@
-# SPLeaderboardsSite
-Leaderboards website for StrikePractice
-
+# SPWebLB
+>A modern leaderboards website for StrikePractice
+---------------------------------------------
 
 Made by https://github.com/apotpvp
 

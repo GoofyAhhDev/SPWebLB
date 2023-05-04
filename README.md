@@ -8,7 +8,7 @@ Dm for questions: Jordy#2411
 
 
 
-WHAT IS IT
+WHAT IS IT?
 
 This api Runs a Flask Website that utilizes an API to get data from a MariaDB Database and display them on the site.
 

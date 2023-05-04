@@ -23,7 +23,7 @@ This api is written for the use of MariaDB! make sure you have a MariaDB Databas
 
 
 
-    ![image](https://user-images.githubusercontent.com/72379044/236197867-9d2298a6-eec3-4604-bcc6-b378039fb3a8.png)
+![image](https://user-images.githubusercontent.com/72379044/236197867-9d2298a6-eec3-4604-bcc6-b378039fb3a8.png)
 
 
 

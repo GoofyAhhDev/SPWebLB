@@ -6,13 +6,24 @@ Made by https://github.com/apotpvp
 
 Dm for questions: Jordy#2411
 
+
+
 WHAT IS IT
 
-This api Runs a Flask Website that utilizes an API to get data from a MariaDB Database and display them on the site. 
+This api Runs a Flask Website that utilizes an API to get data from a MariaDB Database and display them on the site.
+
+
 The API is written in Python and the website is written in HTML, and uses Tailwind to create the CSS.
+
+
 This api is written for the use of MariaDB! make sure you have a MariaDB Database. Other databases such as MongoDB or Mysql will not work.
 
+
+
 ![image](https://user-images.githubusercontent.com/72379044/236197867-9d2298a6-eec3-4604-bcc6-b378039fb3a8.png)
+
+
+
 
 
 HOW TO REPLICATE

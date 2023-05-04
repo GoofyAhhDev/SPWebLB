@@ -9,7 +9,7 @@ Made by https://github.com/apotpvp
 Dm for questions: Jordy#2411
 
 
-## What is it?
+## What is it
 
 
 This api Runs a Flask Website that utilizes an API to get data from a MariaDB Database and display them on the site.
@@ -31,7 +31,7 @@ This api is written for the use of MariaDB! make sure you have a MariaDB Databas
 
 
 
-HOW TO REPLICATE
+## How to Replicate
 
 1. Clone repository
 2. Make sure you have python and pip installed

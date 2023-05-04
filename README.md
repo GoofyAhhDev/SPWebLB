@@ -20,7 +20,7 @@ Dm for questions: Jordy#2411
 
 
 
-* This api is written for the use of MariaDB! make sure you have a MariaDB Database. Other databases such as MongoDB or Mysql will not work.
+* This API is specifically designed for use with MariaDB. Please ensure that you have a MariaDB database available. Other databases, such as MongoDB or         MySQL, will not work with this API.
 
 
 

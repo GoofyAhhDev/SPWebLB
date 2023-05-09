@@ -77,22 +77,45 @@ Dm for questions: Jordy#2411
 ## FAQ
 
 * How do i add new ladders (kits)?
-1. Go into the api.py file and add a new def for the ladder you want to add. you have to replace "ladderhere" with the ladder you want to add and "name_of_collum"
- with the collum name in you database. they have to be the same otherwise the api can't find it in the table in the DB.
-    ![image](https://github.com/apotpvp/SPWebLB/assets/72379044/fecf045f-d9cd-4490-bafa-e2015357fe8b)
+    1. Go into the api.py file and add a new def for the ladder you want to add. you have to replace "ladderhere" with the ladder you want to add and "name_of_collum"
+     with the collum name in you database. they have to be the same otherwise the api can't find it in the table in the DB.
+     
+  
+        ![image](https://github.com/apotpvp/SPWebLB/assets/72379044/fecf045f-d9cd-4490-bafa-e2015357fe8b)
 
-2. next you need to add the def to the flask routing.
-fill "ladderhere" with the last part of the def you created previously. you should replace "ladder" with the kit
-![image](https://github.com/apotpvp/SPWebLB/assets/72379044/d4e9f9ee-eac9-472d-92c2-c7a53c7b5724)
+    2. next you need to add the def to the flask routing.
+    fill "ladderhere" with the last part of the def you created previously. you should replace "ladder" with the kit
+    
+    
+    ![image](https://github.com/apotpvp/SPWebLB/assets/72379044/d4e9f9ee-eac9-472d-92c2-c7a53c7b5724)
 
-4. you have to add the flask route to the stats.html route
+    4. you have to add the flask route to the stats.html route
 
-![image](https://github.com/apotpvp/SPWebLB/assets/72379044/6c2cb2a3-0044-4f6b-a3d6-a15204683040)
-also add your ladder to the rendertemplate
-![image](https://github.com/apotpvp/SPWebLB/assets/72379044/813d91fb-b3c1-4ae0-92c2-429e71c25ed0)
 
-6. Next you need to copy this div
+    ![image](https://github.com/apotpvp/SPWebLB/assets/72379044/6c2cb2a3-0044-4f6b-a3d6-a15204683040)
+    
+    
+    also add your ladder to the rendertemplate
+    
+    
+    ![image](https://github.com/apotpvp/SPWebLB/assets/72379044/813d91fb-b3c1-4ae0-92c2-429e71c25ed0)
 
-![image](https://github.com/apotpvp/SPWebLB/assets/72379044/8607499d-6c13-4d41-aa60-0fcbee4fcc5e)
+    6. Next you need to copy this div
 
-and edit it so the ladder shows up
+
+
+    ![image](https://github.com/apotpvp/SPWebLB/assets/72379044/8607499d-6c13-4d41-aa60-0fcbee4fcc5e)
+
+    and edit it so the ladder shows up
+ * My imports are broken!
+
+    1. make sure you have installed requirements.txt
+    2. make sure your python is up to date.
+    3. if requirements.txt doesn't work you would need to install the imports manually
+    4. make sure you add the folder you installed the imports in to your PYTHONPATH
+
+        see for help: https://docs.python.org/3/using/windows.html
+        
+        
+        https://stackoverflow.com/questions/3701646/how-to-add-to-the-pythonpath-in-windows-so-it-finds-my-modules-packages
+        

@@ -4,9 +4,9 @@
 ## Author
 
 
-Made by https://github.com/apotpvp
+Made by (https://github.com/GoofyAhhDev/)
 
-Dm for questions: Jordy#2411
+Dm for questions: goofyahhdev on discord
 
 
 ## What is it
